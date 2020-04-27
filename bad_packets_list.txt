@@ -1,10 +1,10 @@
 #############################
 #############################
 #############################
-List from https://github.com/tg12/bad_packets_blocklist
-Thanks to ... https://twitter.com/JCyberSec_
-Thanks to ... https://twitter.com/bad_packets
-List created at: 2020-04-27 19:41:36.871827
+#List from https://github.com/tg12/bad_packets_blocklist
+#Thanks to ... https://twitter.com/JCyberSec_
+#Thanks to ... https://twitter.com/bad_packets
+#List created at: 2020-04-27 19:41:36.871827
 #############################
 #############################
 #############################
