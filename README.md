@@ -1,5 +1,4 @@
-# bad_packets_blocklist
-A blocklist based on sources from Bad Packets Report
+# A blocklist based on sources from Bad Packets Report
 
 A blocklist for use in iptables, firewalls, IDS and IDP etc. 
 
