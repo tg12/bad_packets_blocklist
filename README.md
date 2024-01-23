@@ -1,6 +1,6 @@
 # A blocklist based on sources from Bad Packets Report
 
-
+ADDED: ipblocker.py, change the your ip block text file into ipblocker.py.
 
 A blocklist for use in iptables, firewalls, IDS and IDP etc. 
 
